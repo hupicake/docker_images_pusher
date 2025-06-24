@@ -1,1 +1,2 @@
 --platform=linux/amd64 mzz2017/v2raya
+--platform=linux/amd64 OpenResty
