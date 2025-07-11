@@ -1,1 +1,1 @@
---platform=linux/amd64 consul
+--platform=linux/amd64 consul:1.15.3
