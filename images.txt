@@ -1,1 +1,1 @@
---platform=linux/amd64 OpenResty
+--platform=linux/amd64 consul
